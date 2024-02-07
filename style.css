@@ -1,0 +1,59 @@
+.list-group-item{
+   background-color: rgb(173, 173, 204);
+   width: 100%;
+   height: 100%;
+   text-align: left;
+   justify-content: left;
+   align-items: center;
+   display: flex;
+   justify-content: space-between;
+}
+
+#container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 250px;
+    align-items: flex-start;
+    
+}
+
+.btnClass{
+    margin: 5px;
+    width: 200px;
+    height: 50px;
+}
+ 
+
+.privBtn{
+    float: right;
+}
+
+#todoInput{
+    
+    border-radius: 0px;
+    margin-top: 20px;
+    height: 70px;
+    
+}
+
+#lbl{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.cont{
+    width: 100%;
+    background-color: rgb(151, 151, 151);
+    
+    
+}
+
+#lbl1{
+    margin-left: 50px;
+    
+    
+}
+
+
